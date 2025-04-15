@@ -11,6 +11,9 @@
 
 ![RicardoAntuness GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoAntuness&show_icons=true&theme=dracula)
 
+## 🐍 Cobrinha comendo meus commits
+
+![snake gif](https://github.com/RicardoAntuness/RicardoAntuness/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que eu uso no meu dia-a-dia
 
