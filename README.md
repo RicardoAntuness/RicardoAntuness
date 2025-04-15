@@ -11,7 +11,6 @@
 
 ![RicardoAntuness GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoAntuness&show_icons=true&theme=dracula)
 
-## 🐍 Cobrinha comendo meus commits
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
