@@ -13,7 +13,7 @@
 
 ## 🐍 Cobrinha comendo meus commits
 
-![snake gif](https://github.com/RicardoAntuness/RicardoAntuness/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que eu uso no meu dia-a-dia
 
